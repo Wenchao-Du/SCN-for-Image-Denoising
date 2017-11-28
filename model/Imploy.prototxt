@@ -1,4 +1,4 @@
-name: "CompactCNN"
+name: "SCN_deploy"
 input: "data"
 input_dim: 1
 input_dim: 1
