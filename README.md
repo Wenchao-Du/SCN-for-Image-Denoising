@@ -11,9 +11,9 @@ This is our recent work about Image Denosing for LDCT, which was named Stacked C
 
 ## Results
 
-![showImg](E:\Medical_Img\net\showImg.jpg)
+![showImg](result\result1.jpg)
 
-![showImg2](E:\Medical_Img\net\showImg2.jpg)
+![showImg2](result\result2.jpg)
 
 ## Contact
 
