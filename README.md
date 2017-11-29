@@ -9,7 +9,11 @@ This is our recent work about Image Denosing for LDCT, which was named Stacked C
 
 3、Cuda (if use nvidia gpu)
 
+## Results
 
+![showImg](E:\Medical_Img\net\showImg.jpg)
+
+![showImg2](E:\Medical_Img\net\showImg2.jpg)
 
 ## Contact
 
