@@ -19,4 +19,4 @@ This is our recent work about Image Denosing for LDCT, which was named Stacked C
 
 Yi Zhang  yzhang@scu.edu.cn
 
-Wenchao Du  [Wenchao_Du@stu.scu.edu.cn]()
+Wenchao Du  Wenchao_Du@stu.scu.edu.cn
