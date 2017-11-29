@@ -11,9 +11,9 @@ This is our recent work about Image Denosing for LDCT, which was named Stacked C
 
 ## Results
 
-![showImg](result\result1.jpg)
+![showImg](https://github.com/Wenchao-Du/SCN-for-Image-Denoising/tree/master/result/result1.jpg)
 
-![showImg2](result\result2.jpg)
+![showImg2](https://github.com/Wenchao-Du/SCN-for-Image-Denoising/tree/master/result/result2.jpg)
 
 ## Contact
 
